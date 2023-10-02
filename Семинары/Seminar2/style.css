@@ -1,0 +1,12 @@
+html{
+    background-color: aqua;
+}
+h1{
+    color: rgb(188, 113, 113);
+}
+h2{
+    color: rgb(121, 233, 121);
+}
+p.first_p{
+    color: blueviolet;
+}
